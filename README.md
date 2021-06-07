@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there, i'm Vadim ⚡⚡⚡
+- 🌱 I’m currently studying Front End ✨.
+
 
 <!--
 **vadimsharanov/vadimsharanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
