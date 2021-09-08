@@ -1,5 +1,5 @@
 ### Hello there, i'm Vadim ⚡⚡⚡
-- 🌱 I’m currently studying Front End ✨.
+- 🌱 I’m currently studying Front End && Back End! ✨. 
 
 
 <!--
